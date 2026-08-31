@@ -1,0 +1,8 @@
+*
+!.gitignore
+!results/
+!results/**
+!data/
+!data/**
+data/**/.ipynb_checkpoints/
+data/**/*-checkpoint.mtx
