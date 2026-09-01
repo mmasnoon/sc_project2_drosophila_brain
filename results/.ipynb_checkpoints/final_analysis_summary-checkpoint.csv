@@ -1,8 +1,0 @@
-metric,value
-cells_after_QC,88923
-genes_after_QC,13141
-HVGs,2000
-Leiden_clusters,28
-male_significant_DE_genes,89
-female_significant_DE_genes,171
-shared_DE_genes,37
