@@ -1,0 +1,8 @@
+metric,value
+cells_after_QC_subsampled,32000
+genes_after_QC,2000
+HVGs,2000
+Leiden_clusters,23
+male_significant_DE_genes,70
+female_significant_DE_genes,156
+shared_DE_genes,24
