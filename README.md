@@ -91,14 +91,6 @@ Checkpoints are written to `results/` after each major stage; figures are writte
 
 ## Report & Deliverables
 
-The full write-up — introduction, methods, results (Figures 1–5), discussion, limitations, and the required AI Usage Disclosure appendix — is in [`report/Project2_Drosophila_Cocaine_Report.pdf`](report/Project2_Drosophila_Cocaine_Report.pdf).
-
-| Milestone | Deadline | Tag |
-|---|---|---|
-| Draft Report & Pipeline | Aug 31, 2026 | `v1.0-peerreview` |
-| Peer Review | Sep 4, 2026 | — |
-| Final Submission | Sep 9, 2026 | `v2.0-final` |
-
 ## Key Findings (Draft)
 
 - **Clustering:** 23 Leiden clusters recovered at resolution 0.8 (vs. 36 in the original study), likely reflecting the reduced cell count analyzed under the memory-constrained subsample.
