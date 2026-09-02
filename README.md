@@ -224,8 +224,6 @@ sc-project2-drosophila-brain/
 │       ├── shared_DE_genes.csv
 │       └── final_analysis_summary.csv
 │
-├── report/                     # add your report PDF/docx here
-├── data/                       # not tracked — see Quickstart, Step 5
 ├── .gitignore
 ├── LICENSE
 ├── requirements.txt
