@@ -195,7 +195,7 @@ Additionally, the cluster-annotation marker panel in the current notebook exclud
 
 ```
 sc-project2-drosophila-brain/
-│
+├── data/
 ├── notebooks/
 │   ├── 01_preprocessing_qc.ipynb
 │   ├── 02_clustering_annotation.ipynb
