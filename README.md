@@ -197,7 +197,13 @@ Additionally, the cluster-annotation marker panel in the current notebook exclud
 sc-project2-drosophila-brain/
 │
 ├── notebooks/
-│   └── notebook.ipynb
+│   ├── 01_preprocessing_qc.ipynb
+│   ├── 02_clustering_annotation.ipynb
+│   ├── 03_de_enrichment.ipynb
+│   └── notebook.ipynb           
+│
+├── report/
+│   └── report.md
 │
 ├── results/
 │   ├── figures/
@@ -211,22 +217,22 @@ sc-project2-drosophila-brain/
 │   │   ├── umap_clusters_metadata.png
 │   │   └── violin_QC_violin.png
 │   │
-│   └── tables/
-│       ├── cluster_markers_wilcoxon.csv
-│       ├── female_Cocaine_vs_Sucrose_all_DE.csv
-│       ├── female_Cocaine_vs_Sucrose_significant_DE.csv
-│       ├── female_enrichment_results.csv
-│       ├── female_only_DE_genes.csv
-│       ├── male_Cocaine_vs_Sucrose_all_DE.csv
-│       ├── male_Cocaine_vs_Sucrose_significant_DE.csv
-│       ├── male_enrichment_results.csv
-│       ├── male_only_DE_genes.csv
-│       ├── shared_DE_genes.csv
-│       └── final_analysis_summary.csv
-│
+│   ├── tables/
+│   │   ├── cluster_markers_wilcoxon.csv
+│   │   ├── female_Cocaine_vs_Sucrose_all_DE.csv
+│   │   ├── female_Cocaine_vs_Sucrose_significant_DE.csv
+│   │   ├── female_enrichment_results.csv
+│   │   ├── female_only_DE_genes.csv
+│   │   ├── male_Cocaine_vs_Sucrose_all_DE.csv
+│   │   ├── male_Cocaine_vs_Sucrose_significant_DE.csv
+│   │   ├── male_enrichment_results.csv
+│   │   ├── male_only_DE_genes.csv
+│   │   └── shared_DE_genes.csv
+│   │
+│   └── final_analysis_summary.csv
+│                    
 ├── .gitignore
 ├── LICENSE
-├── requirements.txt
 └── README.md
 ```
 
